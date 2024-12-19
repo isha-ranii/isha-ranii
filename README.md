@@ -11,13 +11,42 @@ Welcome to my GitHub profile! I'm a passionate and driven **B.Tech student** wit
 
 ## 🔧 Technologies & Skills
 
-- **Programming Languages**: Java, Python, JavaScript, TypeScript
-- **Web Development**: HTML, CSS, Tailwind CSS, Next.js, React.js
-- **Database**: MySQL, Appwrite
-- **Machine Learning**: Scikit-learn, TensorFlow
-- **Network Security**: IDS/IPS, Firewalls, Cryptography
-- **Version Control**: Git, GitHub
-- **Tools**: Visual Studio Code, Postman, Docker
+Here are the technologies I work with:
+
+- **Programming Languages**: 
+  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+- **Web Development**: 
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+- **Database**: 
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  ![Appwrite](https://img.shields.io/badge/Appwrite-000000?style=flat&logo=appwrite&logoColor=white)
+
+- **Machine Learning**: 
+  ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
+- **Network Security**: 
+  ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-000000?style=flat&logo=security&logoColor=white)
+  ![Firewall](https://img.shields.io/badge/Firewall-FF4F00?style=flat&logo=firewall&logoColor=white)
+  ![Cryptography](https://img.shields.io/badge/Cryptography-007BFF?style=flat&logo=cryptography&logoColor=white)
+
+- **Version Control**: 
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+- **Tools**: 
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## 📫 How to Reach Me
 
@@ -44,4 +73,5 @@ I'm always open to collaborating on interesting projects and learning new things
 ---
 
 Thank you for visiting my profile! 😊
+
 
